@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:share-nest/frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:share-nest/backend.git
